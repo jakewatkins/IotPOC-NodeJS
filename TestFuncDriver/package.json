@@ -1,0 +1,13 @@
+{
+  "name": "test-func-driver",
+  "version": "0.0.0",
+  "description": "TestFuncDriver",
+  "main": "app.js",
+  "author": {
+    "name": "jakew"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "aws-sdk": "^2.122.0"
+  }
+}
