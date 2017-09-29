@@ -1,0 +1,13 @@
+{
+  "name": "dyno-query",
+  "version": "0.0.0",
+  "description": "dynoQuery",
+  "main": "app.js",
+  "author": {
+    "name": "jakew"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "aws-sdk": "^2.123.0"
+  }
+}

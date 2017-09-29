@@ -1,0 +1,14 @@
+{
+  "name": "load-dynamo-data",
+  "version": "0.0.0",
+  "description": "LoadDynamoData",
+  "main": "app.js",
+  "author": {
+    "name": "jakew"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "aws-sdk": "^2.123.0",
+    "csv-parse": "^1.2.3"
+  }
+}
